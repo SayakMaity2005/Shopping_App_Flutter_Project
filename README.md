@@ -1,16 +1,17 @@
-# shopping_app
+# Shopping_App
 
-A new Flutter project.
+A clone of Shopping like App UI, no backend has been used.
+I have learnt a lot from this project, specifically UI-widget responsiveness.
+ - Widget build and rebuild
+ - Frame rate control and smoothness improvement
+ - Use of class, enum, Map, List in data-structure
+ - And many other interactive Flutter Stuffs.
 
-## Getting Started
+## Project apk file link
 
-This project is a starting point for a Flutter application.
+[Project apk file]()
 
-A few resources to get you started if this is your first Flutter project:
+## About Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter is really a very very good framework for Mobile Development.
+One of it's uniqueness is that Flutter do everything by own from pixel painting to widget animation rendering.
